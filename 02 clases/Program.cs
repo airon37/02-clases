@@ -146,7 +146,7 @@ void MosLargo()
     Console.WriteLine(fecha.ToString("dddd, MMMM dd, yyyy", new CultureInfo("es-Es")));
 }
 
-//Ejercicio2
+//Ejercicioo2
 void Ejercicio2()
 {
     int select = 0;
